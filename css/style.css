@@ -1,0 +1,227 @@
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+/*buscador*/
+input{
+	background: url("../img/iconos/busqueda.png") no-repeat scroll 0 0 transparent;
+	border: 1px solid #BFBFBF;
+	color: #BFBFBF;
+	padding: 3% 3% 3% 15%;
+	width: 80%;
+	/*padding: 5px 5px 5px 25px;
+	width: 150px;*/
+}
+input.buscador{
+     background-position: 95%;
+     margin-top: 4%;
+}
+/*Enacabezado*/
+h5{
+	margin-left: -45%;
+	margin-top: 20%;
+	color: gray;
+}
+/*Fondo banner*/
+.fondo{
+	background-image: url("../img/banner.jpg");
+	background-color: transparent;
+	background-size: 100% 100%;
+}
+#icono{
+	width: 15%;
+	height: 15%;
+	margin-top: 80%;
+	margin-left: 100%;
+}
+/*Datos de la pelicula*/
+/*titulo*/
+h1{
+	font-size: 220%;
+	margin-left: 50%;
+	color: white;
+	margin-top: 6%;
+	margin-bottom: 3%;
+}
+hr{
+	width: 35%;
+	margin-left: 50%;
+	margin-bottom: 3%;
+}
+/*boton verde*/
+.botverde{
+    border: green 2px solid;
+    color: green;
+    width: 22%;
+    padding: 3%;
+    text-align: center;
+    border-radius: 15%;
+    margin-left: 103%;
+   
+}
+/*autores*/
+#autores{
+	color: white;
+	margin-left: 35%;
+	margin-top: 4%;
+}
+/*datos de la pelicula*/
+.datpeli{
+	list-style: none;
+	color: white;
+	line-height: 404%;
+	margin-left: 90%;
+}
+#colum2{
+	margin-left: -500%;
+}
+/*sinopsis*/
+.sinopsis{
+	margin-left: 43%;
+	color: white;
+}
+/*botones*/
+.botones{
+	width: 20%;
+    padding: 2%;
+    text-align: center;
+    border-radius: 6%;
+    margin-bottom: 3%;
+    color: white;
+    margin-left: 43%;
+    margin-top: 3%;
+}
+.icobotones{
+	width: 11%;
+	height: 11%;
+}
+/*boton trailer*/
+.botontr{
+	background-color: #DAA520;
+}
+/*boton boletos*/
+.botonbol{
+	background-color: brown;
+	margin-top: 0%;
+}
+/*catalogo de peliculas*/
+.color{
+	background-color: #DAA520	;
+	width: 111.6%;
+	height: 310px;
+	margin-left: -6%;
+}
+.catal2{
+	width: 80%;
+	height:80%;
+	margin-top: 23%;
+}
+#pel1{
+	width: 79%;
+	height:79%;
+	margin-left: 15%; 
+}
+#pel2{
+	width: 88%;
+	height: 88%;
+}
+#pel3{
+	width: 85%;
+	height: 85%;
+}
+/*trailer*/
+iframe{
+	width: 1270px;
+	height: 485px; 
+	frameborder: 0;
+	margin-left: -6%;
+}
+/*Parte de las ofertas*/
+.encabezsale{
+	margin-left: 8%;
+	margin-top: 6%;
+	color: #D7D7D7;
+}
+#segp{
+	color: black;
+}
+#ultp{
+	color: brown;
+} 
+             /*Boton ticket 2*/
+.icoboton{
+	width: 10%;
+	height:10%;
+	
+}           
+.botonbol2{
+    background-color: 	#CD853F;
+    margin-left: 8%;
+    width: 30%;
+    padding: 4%;
+    text-align: center;
+    border-radius: 6%;
+    margin-bottom: 0%;
+    color: white;
+    margin-top: 3%;
+}
+span{
+	margin-left: 10%;
+	color: white;
+}
+/*noticias*/
+.alinear{
+	margin-left: 4%;
+}
+.subtitulo{
+	color: black;
+}
+.news{
+	color: #D7D7D7;
+}
+.nh2{
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.division{
+	margin-top: 5%;
+	margin-bottom: 8%;
+	border: 1px solid #D7D7D7;
+	width: 90%;
+}
+.more{
+	color: #CD853F;
+	margin-top: -1%;
+	margin-bottom: 8%;
+}
+/*ultimo catalogo*/
+.tamaño{
+	width: 90%;
+	height:90%;
+	left: 15%;
+	margin-bottom: 8%;
+}
+.dos{
+	width: 93.5%;
+	height: 93.5%;
+}
+#terceraimg{
+	width: 100%;
+	height: 100%;
+}
+/*footer*/
+.gris{
+	background-color: #D3D3D3;
+	width: 111.6%;
+	height: 290px;
+	margin-left: -6%;
+}
+.alinear2{
+	margin-left: 8%;
+	color: #A9A9A9;
+}
+.interlineado{
+	margin-top: 3%;
+}
